@@ -1,0 +1,13 @@
+*.log
+*.aux
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+**/.ropeproject/
+*.bcf
+*.pdf
+_build/
+
+*.kilepr
